@@ -1,0 +1,401 @@
+id,category,difficulty,level,question,option_a,option_b,option_c,option_d,correct_answer,points,time_limit_seconds,bible_reference
+emek_q001,genesis-trail,easy,1,Who created the heavens and the earth?,Satan,God,An angel,Nature itself,B,10,20,Genesis 1:1
+emek_q002,genesis-trail,easy,1,What did God create on the first day?,The sun,The stars,Land animals,Light,D,10,20,Genesis 1:3
+emek_q003,genesis-trail,easy,1,In whose image was humanity created?,An angel's image,God's image,Adam's own image,No particular image,B,10,20,Genesis 1:27
+emek_q004,genesis-trail,easy,1,What did God breathe into Adam's nostrils?,The Holy Spirit visibly,A blessing scroll,Water,The breath of life,D,10,20,Genesis 2:7
+emek_q005,genesis-trail,easy,1,Who ate the forbidden fruit first?,Adam,Eve,The serpent,Cain,B,10,20,Genesis 3:6
+emek_q006,genesis-trail,easy,1,Who killed Abel?,Lamech,Seth,Noah,Cain,D,10,20,Genesis 4:8
+emek_q007,genesis-trail,easy,1,What did God command Noah to build?,A temple,An ark,A tower,An altar,B,10,20,Genesis 6:14
+emek_q008,genesis-trail,easy,1,Who entered the ark with Noah?,All the people of his city,Only animals,His servants,His family,D,10,20,Genesis 7:7
+emek_q009,genesis-trail,easy,1,What sign did God place in the clouds?,A star,A rainbow,A dove,A pillar of fire,B,10,20,Genesis 9:13
+emek_q010,genesis-trail,easy,1,What did God promise to make Abram?,A great warrior,A wealthy king,A high priest,A great nation,D,10,20,Genesis 12:2
+emek_q011,genesis-trail,easy,1,What was counted to Abram as righteousness?,His sacrifice,His faith,His obedience to the Law,His circumcision,B,10,20,Genesis 15:6
+emek_q012,genesis-trail,easy,1,Why did Sarah laugh?,Because Abraham told a joke,Because she doubted the visitors,Because Isaac was already born,Because she would have a child in old age,D,10,20,Genesis 18:12
+emek_q013,genesis-trail,easy,1,Who was Abraham commanded to offer?,Ishmael,Isaac,A ram,A lamb,B,10,20,Genesis 22:12
+emek_q014,genesis-trail,easy,1,Who was born first to Isaac and Rebekah?,Jacob,Levi,Judah,Esau,D,10,20,Genesis 25:25
+emek_q015,genesis-trail,easy,1,What did Jacob see in his dream?,A burning bush,A ladder reaching heaven,A pillar of fire,A great flood,B,10,20,Genesis 28:12
+emek_q016,genesis-trail,easy,1,What new name was Jacob given?,Judah,Levi,Reuben,Israel,D,10,20,Genesis 32:28
+emek_q017,genesis-trail,easy,1,What special garment did Jacob give Joseph?,A priestly robe,A coat of many colors,A royal crown,A plain linen tunic,B,10,20,Genesis 37:3
+emek_q018,genesis-trail,easy,1,Who became second in command to Pharaoh?,Aaron,Judah,Reuben,Joseph,D,10,20,Genesis 41:41
+emek_q019,genesis-trail,easy,1,What did Joseph say God could bring from evil?,Justice,Good,Judgment,Wealth,B,10,20,Genesis 50:20
+emek_q020,exodus-journey,easy,1,What appeared to Moses in the wilderness?,An angel with a sword,A pillar of cloud,A talking donkey,A burning bush,D,10,20,Exodus 3:2
+emek_q021,genesis-trail,easy,1,Who was the first man?,Adam,Seth,Enoch,Cain,A,10,20,Genesis 2:7
+emek_q022,genesis-trail,easy,1,Who was the first woman?,Sarah,Eve,Rachel,Miriam,B,10,20,Genesis 2:22
+emek_q023,genesis-trail,easy,1,What was the name of the garden where Adam and Eve lived?,Gethsemane,Eden,Carmel,Bethel,B,10,20,Genesis 2:8
+emek_q024,genesis-trail,easy,1,What sign did God establish with Noah as a covenant with every living creature?,The rainbow,A pillar of fire,A dove,The circumcision,A,10,20,Genesis 9:12-13
+emek_q025,genesis-trail,easy,1,What did Noah send out after the flood waters began to recede?,A raven,A lion,A lamb,A camel,A,10,20,Genesis 8:7
+emek_q026,genesis-trail,easy,1,What was Abraham's original name before God renamed him?,Abram,Jacob,Isaac,Terah,A,10,20,Genesis 17:5
+emek_q027,genesis-trail,easy,1,What was Sarah's original name?,Sarai,Rebekah,Hagar,Rachel,A,10,20,Genesis 17:15
+emek_q028,genesis-trail,easy,1,What was the name of Abraham's promised son through Sarah?,Ishmael,Isaac,Esau,Joseph,B,10,20,Genesis 21:3
+emek_q029,genesis-trail,easy,1,Who was Isaac's wife?,Rachel,Leah,Rebekah,Miriam,C,10,20,Genesis 24:67
+emek_q030,genesis-trail,easy,1,Who was Jacob's twin brother?,Joseph,Benjamin,Esau,Judah,C,10,20,Genesis 25:24-26
+emek_q031,genesis-trail,easy,1,How many sons did Jacob have?,10,11,12,13,C,10,20,Genesis 35:22-26
+emek_q032,genesis-trail,easy,1,Which son of Jacob received a special multicolored robe?,Judah,Joseph,Levi,Benjamin,B,10,20,Genesis 37:3
+emek_q033,genesis-trail,easy,1,Who interpreted Pharaoh's dreams in Egypt?,Joseph,Aaron,Daniel,Samuel,A,10,20,Genesis 41:15-16
+emek_q034,exodus-journey,easy,1,What did Moses' mother place him in as a baby?,A wooden box,A basket,A tent,A jar,B,10,20,Exodus 2:3
+emek_q035,exodus-journey,easy,1,Who was Moses' brother?,Joshua,Aaron,Caleb,Eleazar,B,10,20,Exodus 4:14
+emek_q036,exodus-journey,easy,1,What sea did the Israelites cross after leaving Egypt?,Dead Sea,Red Sea,Galilee,Mediterranean Sea,B,10,20,Exodus 14:21-22
+emek_q037,exodus-journey,easy,1,What food did God provide for Israel in the wilderness?,Manna,Grapes,Olives,Fish,A,10,20,Exodus 16:15
+emek_q038,exodus-journey,easy,1,How many commandments were given at Sinai?,7,10,12,40,B,10,20,Exodus 20:1-17
+emek_q039,kings-and-prophets,easy,1,Who led Israel after Moses died?,Joshua,Aaron,Samuel,Gideon,A,10,20,Joshua 1:1-2
+emek_q040,kings-and-prophets,easy,1,What city did the Israelites famously march around before its walls fell?,Jericho,Jerusalem,Ai,Hebron,A,10,20,Joshua 6:20
+emek_q041,exodus-journey,easy,2,What name did God reveal to Moses?,The God of Abraham,I AM WHO I AM,El Shaddai,Adonai,B,15,20,Exodus 3:14
+emek_q042,exodus-journey,easy,2,What was Aaron's role when Moses spoke to Pharaoh?,He served as Moses' spokesman,He was the Egyptian governor,He commanded Pharaoh's army,He interpreted dreams,A,15,20,Exodus 4:16
+emek_q043,exodus-journey,easy,2,What happened to Aaron's staff before Pharaoh?,It turned to blood,It became a serpent,It grew leaves,It broke in two,B,15,20,Exodus 7:10
+emek_q044,exodus-journey,easy,2,Where was the Passover blood put?,On the altar only,On the temple gate,On the ark of the covenant,On the doorposts and lintel,D,15,20,Exodus 12:7
+emek_q045,exodus-journey,easy,2,What sea did Moses divide?,The Sea of Galilee,The Red Sea,The Dead Sea,The Mediterranean Sea,B,15,20,Exodus 14:21
+emek_q046,exodus-journey,easy,2,What did the Israelites call the bread-like food that appeared with the dew?,Manna,Quail,Unleavened bread,Showbread,A,15,20,Exodus 16:31
+emek_q047,exodus-journey,easy,2,What is the first commandment?,Honor your father and mother,Have no other gods before God,You shall not steal,Keep the Sabbath holy,B,15,20,Exodus 20:3
+emek_q048,exodus-journey,easy,2,What day was commanded to be kept holy?,The Passover,The Day of Atonement,The first day of the month,The Sabbath,D,15,20,Exodus 20:8
+emek_q049,exodus-journey,easy,2,What did Aaron make from gold?,An altar,A golden calf,A crown,An ark,B,15,20,Exodus 32:4
+emek_q050,exodus-journey,easy,2,What happened to Moses' face after meeting God?,It turned pale,It aged suddenly,It was veiled forever,It shone,D,15,20,Exodus 34:29
+emek_q051,exodus-journey,easy,2,How should God's people love their neighbor?,More than themselves,As themselves,As strangers,Only within their tribe,B,15,20,Leviticus 19:18
+emek_q052,exodus-journey,easy,2,How does the priestly blessing begin?,"Hear, O Israel",Blessed is the man,The LORD is my shepherd,The LORD bless you and keep you,D,15,20,Numbers 6:24
+emek_q053,exodus-journey,easy,2,Who urged Israel to take the land?,Ten of the twelve spies,Caleb,Aaron,Miriam,B,15,20,Numbers 13:30
+emek_q054,exodus-journey,easy,2,What did Moses make after the serpent plague?,A golden altar,A silver ark,A wooden staff,A bronze serpent,D,15,20,Numbers 21:8
+emek_q055,exodus-journey,easy,2,What animal spoke to Balaam?,A serpent,A donkey,A raven,A lamb,B,15,20,Numbers 22:28
+emek_q056,exodus-journey,easy,2,How should Israel love the LORD?,With sacrifices alone,With their wealth,With festivals only,"With all heart, soul, and strength",D,15,20,Deuteronomy 6:5
+emek_q057,exodus-journey,easy,2,Man does not live by what alone?,Water,Bread,Manna,Gold,B,15,20,Deuteronomy 8:3
+emek_q058,exodus-journey,easy,2,Who goes before God's people?,Moses alone,The ark of the covenant only,An angel army,The LORD,D,15,20,Deuteronomy 31:8
+emek_q059,exodus-journey,easy,2,Where did Moses die?,In Egypt,In the land of Moab,In Canaan,On Mount Sinai,B,15,20,Deuteronomy 34:5
+emek_q060,kings-and-prophets,easy,2,What did God tell Joshua to be?,Patient and humble,Wise and wealthy,Silent and obedient,Strong and courageous,D,15,20,Joshua 1:9
+emek_q061,kings-and-prophets,easy,2,Who was the strongest judge of Israel?,Samson,Gideon,Samuel,Ehud,A,15,20,Judges 16:17
+emek_q062,kings-and-prophets,easy,2,What was the source of Samson's strength according to his Nazirite vow?,His armor,His uncut hair,His sword,His crown,B,15,20,Judges 16:17
+emek_q063,kings-and-prophets,easy,2,Who was Ruth's mother-in-law?,Naomi,Hannah,Martha,Elizabeth,A,15,20,Ruth 1:3-4
+emek_q064,kings-and-prophets,easy,2,What was Ruth's relationship to Boaz?,Sister,Daughter,Wife,Cousin,C,15,20,Ruth 4:13
+emek_q065,kings-and-prophets,easy,2,Who was Samuel's mother?,Hannah,Naomi,Deborah,Abigail,A,15,20,1 Samuel 1:20
+emek_q066,kings-and-prophets,easy,2,Who was Israel's first king?,David,Saul,Solomon,Samuel,B,15,20,1 Samuel 10:1
+emek_q067,kings-and-prophets,easy,2,Who defeated Goliath?,Saul,David,Jonathan,Abner,B,15,20,1 Samuel 17:49-50
+emek_q068,kings-and-prophets,easy,2,What weapon did David use to strike Goliath?,A spear,A sling and stone,A sword,A bow,B,15,20,1 Samuel 17:49
+emek_q069,kings-and-prophets,easy,2,"Who was David's closest friend, the son of Saul?",Jonathan,Abner,Joab,Nathan,A,15,20,1 Samuel 18:1
+emek_q070,kings-and-prophets,easy,2,Which prophet confronted David about his sin with Bathsheba?,Nathan,Samuel,Elijah,Gad,A,15,20,2 Samuel 12:1-7
+emek_q071,kings-and-prophets,easy,2,Who was Solomon's father?,Saul,David,Jesse,Samuel,B,15,20,1 Kings 2:12
+emek_q072,kings-and-prophets,easy,2,What did Solomon ask God for?,Long life,Wisdom,Riches,Military power,B,15,20,1 Kings 3:9
+emek_q073,kings-and-prophets,easy,2,What famous building did Solomon construct?,The ark,The temple,The tabernacle,The wall of Jericho,B,15,20,1 Kings 6:1
+emek_q074,kings-and-prophets,easy,2,Which prophet challenged the prophets of Baal on Mount Carmel?,Elijah,Elisha,Isaiah,Jeremiah,A,15,20,1 Kings 18:20-24
+emek_q075,kings-and-prophets,easy,2,How did Elijah leave the earth?,In a storm,In a chariot of fire,By ship,In a cloud of smoke,B,15,20,2 Kings 2:11
+emek_q076,kings-and-prophets,easy,2,Who succeeded Elijah as prophet?,Elisha,Isaiah,Jeremiah,Hosea,A,15,20,2 Kings 2:9-15
+emek_q077,kings-and-prophets,easy,2,Which prophet was swallowed by a great fish?,Jonah,Amos,Micah,Nahum,A,15,20,Jonah 1:17
+emek_q078,kings-and-prophets,easy,2,What city did Jonah preach against?,Nineveh,Babylon,Damascus,Jericho,A,15,20,Jonah 3:2-3
+emek_q079,kings-and-prophets,easy,2,Which book begins with the words about a righteous man named Job?,Job,Psalms,Proverbs,Ecclesiastes,A,15,20,Job 1:1
+emek_q080,kings-and-prophets,easy,2,Who is traditionally associated with many of the Psalms?,David,Solomon,Moses,Isaiah,A,15,20,Psalm 3:1
+emek_q081,kings-and-prophets,medium,3,Who hid the Israelite spies in Jericho?,Deborah,Rahab,Ruth,Miriam,B,20,25,Joshua 2:1
+emek_q082,kings-and-prophets,medium,3,What happened to Jericho's wall?,It was rebuilt stronger,It was never breached,It caught fire,It fell down,D,20,25,Joshua 6:20
+emek_q083,kings-and-prophets,medium,3,What happened to the sun and moon during Joshua's battle?,They turned red,They stood still,They disappeared,They moved backward,B,20,25,Joshua 10:13
+emek_q084,kings-and-prophets,medium,3,What choice did Joshua present to Israel?,Where they would settle,Who would be king,How they would divide the land,Whom they would serve,D,20,25,Joshua 24:15
+emek_q085,kings-and-prophets,medium,3,Who was a prophetess and judge of Israel?,Miriam,Deborah,Huldah,Anna,B,20,25,Judges 4:4
+emek_q086,kings-and-prophets,medium,3,Who asked God for a sign involving a fleece?,Samson,Barak,Ehud,Gideon,D,20,25,Judges 6:36
+emek_q087,kings-and-prophets,medium,3,How many men did Gideon take after the final reduction?,"3,000",300,"32,000","10,000",B,20,25,Judges 7:7
+emek_q088,kings-and-prophets,medium,3,What did Delilah discover was the secret of Samson's strength?,His hair had never been cut,His sword was blessed,He wore a special belt,He drank holy water,A,20,25,Judges 16:17
+emek_q089,kings-and-prophets,medium,3,"Who said, 'Your people shall be my people'?",Naomi,Ruth,Orpah,Rahab,B,20,25,Ruth 1:16
+emek_q090,kings-and-prophets,medium,3,What was Ruth's son's name?,Boaz,Jesse,Mahlon,Obed,D,20,25,Ruth 4:17
+emek_q091,kings-and-prophets,medium,3,What was Hannah's son named?,Eli,Samuel,Saul,Samson,B,20,25,1 Samuel 1:20
+emek_q092,kings-and-prophets,medium,3,What did Israel ask Samuel to give them?,A new law,A new temple,Peace with their enemies,A king,D,20,25,1 Samuel 8:5
+emek_q093,kings-and-prophets,medium,3,What did Samuel do to Saul when Saul was chosen king?,Anointed him with oil,Gave him a crown,Gave him the Law,Sent him to Egypt,A,20,25,1 Samuel 10:1
+emek_q094,kings-and-prophets,medium,3,Who was anointed after Saul?,Jonathan,Samuel,Solomon,David,D,20,25,1 Samuel 16:13
+emek_q095,kings-and-prophets,medium,3,What did David use to strike Goliath?,A sword,A sling and a stone,A spear,Saul's armor,B,20,25,1 Samuel 17:49
+emek_q096,kings-and-prophets,medium,3,What did Jonathan give David as a sign of their covenant?,"His robe, armor, sword, bow, and belt",A crown and throne,A scroll and harp,A horse and chariot,A,20,25,1 Samuel 18:3-4
+emek_q097,kings-and-prophets,medium,3,How old was David when he became king?,Seventeen,Thirty,Forty,Twenty,B,20,25,2 Samuel 5:4
+emek_q098,kings-and-prophets,medium,3,Who confronted David after his sin?,Gad,Samuel,Zadok,Nathan,D,20,25,2 Samuel 12:7
+emek_q099,kings-and-prophets,medium,3,Which son of David died after being caught by his hair?,Amnon,Absalom,Adonijah,Solomon,B,20,25,2 Samuel 18:9
+emek_q100,kings-and-prophets,medium,3,"What did Solomon build at Gezer, Hazor, and Megiddo according to 1 Kings?",Fortified cities,Synagogues,Fish ponds,Cities of refuge,A,20,25,1 Kings 9:15
+emek_q101,the-gospels,medium,3,How many books are in the Old Testament in the Protestant Bible?,27,39,46,66,B,20,25,Luke 24:44
+emek_q102,the-gospels,medium,3,How many books are in the New Testament?,27,39,22,66,A,20,25,Luke 24:44
+emek_q103,kings-and-prophets,medium,3,What is the longest book in the Bible by number of chapters?,Isaiah,Psalms,Genesis,Jeremiah,B,20,25,Psalm 119:1
+emek_q104,acts-and-epistles,medium,3,Which book follows the four Gospels?,Romans,Acts,Hebrews,James,B,20,25,Acts 1:1
+emek_q105,acts-and-epistles,medium,3,Which Gospel was written by a physician according to early Christian tradition?,Matthew,Mark,Luke,John,C,20,25,Colossians 4:14
+emek_q106,the-gospels,medium,3,Which Gospel opens with a genealogy from Abraham?,Matthew,Mark,Luke,John,A,20,25,Matthew 1:1-2
+emek_q107,the-gospels,medium,3,Which Gospel begins with the ministry of John the Baptist and the baptism of Jesus in its opening chapter?,Matthew,Mark,Luke,John,B,20,25,Mark 1:1-11
+emek_q108,the-gospels,medium,3,Which Gospel contains the raising of Lazarus?,Matthew,Mark,Luke,John,D,20,25,John 11:43-44
+emek_q109,the-gospels,medium,3,Who baptized Jesus?,Peter,John the Baptist,Andrew,James,B,20,25,Matthew 3:13-17
+emek_q110,the-gospels,medium,3,Where was Jesus baptized?,Jordan River,Nile River,Sea of Galilee,Kidron Valley,A,20,25,Matthew 3:13
+emek_q111,the-gospels,medium,3,How many days did Jesus fast in the wilderness?,7,12,40,70,C,20,25,Matthew 4:2
+emek_q112,the-gospels,medium,3,Who tempted Jesus in the wilderness?,Herod,Satan,Pilate,Caiaphas,B,20,25,Matthew 4:1
+emek_q113,the-gospels,medium,3,What was Jesus' first recorded miracle in John's Gospel?,Walking on water,Turning water into wine,Healing Lazarus,"Feeding 5,000",B,20,25,John 2:11
+emek_q114,the-gospels,medium,3,At which town did Jesus perform the wedding miracle?,Bethany,Cana,Nazareth,Capernaum,B,20,25,John 2:1-11
+emek_q115,the-gospels,medium,3,How many loaves were used to feed the five thousand?,2,5,7,12,B,20,25,Matthew 14:17
+emek_q116,the-gospels,medium,3,How many baskets of leftovers were gathered after feeding the five thousand?,5,7,10,12,D,20,25,Matthew 14:20
+emek_q117,the-gospels,medium,3,Who walked on water toward Jesus?,John,Peter,Thomas,Philip,B,20,25,Matthew 14:28-29
+emek_q118,the-gospels,medium,3,What did Jesus calm during the storm on the Sea of Galilee?,A fire,The wind and sea,An earthquake,A crowd,B,20,25,Mark 4:39
+emek_q119,the-gospels,medium,3,Who was raised from the dead after four days in the tomb?,Jairus,Lazarus,Stephen,Eutychus,B,20,25,John 11:39-44
+emek_q120,the-gospels,medium,3,What did Jesus ride into Jerusalem?,A horse,A donkey,A camel,A chariot,B,20,25,Matthew 21:7
+emek_q121,kings-and-prophets,medium,4,What material covered the inner walls of Solomon's temple?,Cedar and carved wood,Bricks and clay,Iron and bronze,Granite only,A,25,25,1 Kings 6:15-18
+emek_q122,kings-and-prophets,medium,4,Who brought Elijah food during the drought?,Angels,A widow alone,Doves,Ravens,D,25,25,1 Kings 17:6
+emek_q123,kings-and-prophets,medium,4,What fell from heaven on Elijah's altar?,Rain,Fire,Manna,Hailstones,B,25,25,1 Kings 18:38
+emek_q124,kings-and-prophets,medium,4,How did Elijah leave Elisha?,He died of old age,He was buried in Moab,He walked into the sea,In a whirlwind with a chariot of fire,D,25,25,2 Kings 2:11
+emek_q125,kings-and-prophets,medium,4,What disease was Naaman cleansed from?,Blindness,Leprosy,Paralysis,Deafness,B,25,25,2 Kings 5:14
+emek_q126,kings-and-prophets,medium,4,What did Elisha's servant see when his eyes were opened?,An army of angels with swords,A great flood,A pillar of cloud,Horses and chariots of fire,D,25,25,2 Kings 6:17
+emek_q127,kings-and-prophets,medium,4,What did God promise to do for a humbled people who pray?,Send a new prophet,Hear and heal their land,Rebuild their temple,Give them a new king,B,25,25,2 Chronicles 7:14
+emek_q128,kings-and-prophets,medium,4,What had Ezra set his heart to do?,Rebuild the temple walls,Raise an army,Collect taxes for the king,"Study, do, and teach God's Law",D,25,25,Ezra 7:10
+emek_q129,kings-and-prophets,medium,4,What did Nehemiah urge the people to rebuild?,The temple altar,Jerusalem's wall,The city gates only,Solomon's palace,B,25,25,Nehemiah 2:17
+emek_q130,kings-and-prophets,medium,4,What did Mordecai suggest about Esther's position?,She should reveal her nationality immediately,She should ask the king for riches,She should flee the palace,She may have come for such a time as this,D,25,25,Esther 4:14
+emek_q131,kings-and-prophets,medium,4,What did Job say after losing his possessions?,Why have you forsaken me,"The LORD gave, and the LORD has taken away",Curse God and die,I have sinned greatly,B,25,25,Job 1:21
+emek_q132,kings-and-prophets,medium,4,How does Psalm 23 begin?,Blessed is the man,"Have mercy on me, O God",The heavens declare the glory of God,The LORD is my shepherd,D,25,25,Psalm 23:1
+emek_q133,kings-and-prophets,medium,4,What did David ask God to create in him?,A new kingdom,A clean heart,A stronger army,A longer life,B,25,25,Psalm 51:10
+emek_q134,kings-and-prophets,medium,4,What is a lamp to the psalmist's feet?,The sun,A burning torch,The law of Moses only,God's word,D,25,25,Psalm 119:105
+emek_q135,kings-and-prophets,medium,4,What is the beginning of knowledge?,Education,The fear of the LORD,Wealth,The wisdom of the elders,B,25,25,Proverbs 1:7
+emek_q136,kings-and-prophets,medium,4,What should we trust instead of our own understanding?,Our own wisdom,Our friends' advice,The words of prophets alone,The LORD,D,25,25,Proverbs 3:5
+emek_q137,kings-and-prophets,medium,4,What turns away wrath?,A harsh rebuke,A soft answer,Silence,A gift,B,25,25,Proverbs 15:1
+emek_q138,kings-and-prophets,medium,4,What comes before destruction?,Wealth,Laziness,Anger,Pride,D,25,25,Proverbs 16:18
+emek_q139,kings-and-prophets,medium,4,What did Isaiah say after God's call?,I am not worthy,Here am I! Send me,Send someone else,Why have you called me,B,25,25,Isaiah 6:8
+emek_q140,kings-and-prophets,medium,4,What sign is given in Isaiah 7:14?,A star shall rise over Bethlehem,A king shall reign forever,A temple shall be rebuilt,A virgin shall conceive and bear a son,D,25,25,Isaiah 7:14
+emek_q141,the-gospels,medium,4,What was the name of the angel who announced Jesus' birth to Mary?,Michael,Gabriel,Raphael,Uriel,B,25,25,Luke 1:26-31
+emek_q142,the-gospels,medium,4,What was Joseph's occupation?,Fisherman,Carpenter,Priest,Tax collector,B,25,25,Matthew 13:55
+emek_q143,the-gospels,medium,4,In which town was Jesus born?,Nazareth,Bethlehem,Jerusalem,Capernaum,B,25,25,Matthew 2:1
+emek_q144,the-gospels,medium,4,Who visited Jesus after hearing the announcement from the angels?,Shepherds,Soldiers,Pharisees,Merchants,A,25,25,Luke 2:8-20
+emek_q145,the-gospels,medium,4,Which visitors brought gifts to the child Jesus?,Wise men,Scribes,Shepherds,Fishermen,A,25,25,Matthew 2:1-11
+emek_q146,the-gospels,medium,4,Which three gifts are named in Matthew 2?,"Gold, silver, bronze","Gold, frankincense, myrrh","Bread, wine, oil","Spices, salt, wheat",B,25,25,Matthew 2:11
+emek_q147,the-gospels,medium,4,To which country did Joseph take Jesus and Mary to escape Herod?,Syria,Egypt,Rome,Greece,B,25,25,Matthew 2:13-14
+emek_q148,the-gospels,medium,4,How old was Jesus when He stayed behind in the temple and spoke with teachers?,7,12,18,30,B,25,25,Luke 2:42-47
+emek_q149,the-gospels,medium,4,Which disciple was a tax collector before following Jesus?,Matthew,Peter,John,Bartholomew,A,25,25,Matthew 9:9
+emek_q150,the-gospels,medium,4,Which disciple was known as Didymus?,Thomas,James,Judas,Andrew,A,25,25,John 11:16
+emek_q151,the-gospels,medium,4,Who betrayed Jesus?,Peter,Judas Iscariot,Thomas,Matthew,B,25,25,Matthew 26:14-16
+emek_q152,the-gospels,medium,4,For how many pieces of silver did Judas agree to betray Jesus?,10,20,30,40,C,25,25,Matthew 26:15
+emek_q153,the-gospels,medium,4,Which disciple denied Jesus three times?,John,Peter,James,Andrew,B,25,25,Matthew 26:69-75
+emek_q154,the-gospels,medium,4,What did Jesus say Peter would do three times before the rooster crowed?,Deny Him,Follow Him,Preach,Pray,A,25,25,Matthew 26:34
+emek_q155,the-gospels,medium,4,Who sentenced Jesus to crucifixion after questioning Him?,Herod Antipas,Pontius Pilate,Caiaphas,Felix,B,25,25,Matthew 27:24-26
+emek_q156,the-gospels,medium,4,What was written above Jesus on the cross in John's account?,King of the Jews,Son of David,Rabbi of Galilee,Prince of Peace,A,25,25,John 19:19
+emek_q157,the-gospels,medium,4,"On what day of the week did Jesus rise, according to the Gospels?",Friday,Saturday,Sunday,Monday,C,25,25,Matthew 28:1
+emek_q158,the-gospels,medium,4,Who first found the tomb empty in John's Gospel?,Mary Magdalene,Peter,Thomas,Nicodemus,A,25,25,John 20:1
+emek_q159,the-gospels,medium,4,What did Jesus show the disciples after His resurrection to demonstrate He was bodily alive?,His wounds,A crown,A scroll,A sword,A,25,25,Luke 24:39-40
+emek_q160,acts-and-epistles,medium,4,What happened to Jesus after His final appearances to the disciples?,He was hidden,He ascended to heaven,He returned to Nazareth,He sailed to Rome,B,25,25,Acts 1:9
+emek_q161,kings-and-prophets,medium,5,What title is given to the promised child?,Lion of Judah,Prince of Peace,Son of David,King of Kings,B,30,25,Isaiah 9:6
+emek_q162,kings-and-prophets,medium,5,What will those who wait for the LORD renew?,Their wealth,Their homes,Their sight,Their strength,D,30,25,Isaiah 40:31
+emek_q163,kings-and-prophets,medium,5,When did God say He knew Jeremiah?,When he was called as a boy,Before He formed him in the womb,After his first prophecy,When he was born,B,30,25,Jeremiah 1:5
+emek_q164,kings-and-prophets,medium,5,What did God say He had for His people?,Plans for judgment,A new law,A new king,Plans for welfare and a future,D,30,25,Jeremiah 29:11
+emek_q165,kings-and-prophets,medium,5,What did Ezekiel see in the valley?,A river of fire,Dry bones,A great army,A field of wheat,B,30,25,Ezekiel 37:3
+emek_q166,kings-and-prophets,medium,5,Who was seen with the three men in the fiery furnace?,An angel with a sword,The king himself,A priest,A fourth figure,D,30,25,Daniel 3:25
+emek_q167,kings-and-prophets,medium,5,Why was Daniel unharmed in the lions' den?,The lions had already eaten,God sent an angel and shut the lions' mouths,The king freed him early,Daniel tamed the lions himself,B,30,25,Daniel 6:22
+emek_q168,kings-and-prophets,medium,5,What does the LORD require?,Offer many sacrifices,Build a great temple,Keep every festival,"Do justice, love kindness, and walk humbly with God",D,30,25,Micah 6:8
+emek_q169,kings-and-prophets,medium,5,How is the coming king described entering Jerusalem?,Riding a war horse,Riding on a donkey,Carried on a throne,Walking with an army,B,30,25,Zechariah 9:9
+emek_q170,kings-and-prophets,medium,5,What were God's people told to bring to the storehouse?,Their firstborn animals only,Their weapons,Their harvest festival gifts,The full tithe,D,30,25,Malachi 3:10
+emek_q171,the-gospels,medium,5,What does the name Jesus signify?,He will be a great teacher,He will save His people from their sins,He will rule as an earthly king,He will rebuild the temple,B,30,25,Matthew 1:21
+emek_q172,the-gospels,medium,5,What gifts did the wise men bring?,"Silver, oil, and wine","Bread, fish, and wine","Spices, cloth, and jewels","Gold, frankincense, and myrrh",D,30,25,Matthew 2:11
+emek_q173,the-gospels,medium,5,What descended like a dove at Jesus' baptism?,A voice from heaven alone,The Spirit of God,An angel,A bright star,B,30,25,Matthew 3:16
+emek_q174,the-gospels,medium,5,What did Jesus say He would make His followers?,Kings of the earth,Teachers of the Law,Builders of the temple,Fishers of men,D,30,25,Matthew 4:19
+emek_q175,the-gospels,medium,5,Who are called blessed in the Beatitudes?,The wealthy,Peacemakers,The powerful,The proud,B,30,25,Matthew 5:9
+emek_q176,the-gospels,medium,5,What did Jesus call His disciples?,The salt of the sea,The keepers of the Law,The shepherds of Israel,The light of the world,D,30,25,Matthew 5:14
+emek_q177,the-gospels,medium,5,What prayer did Jesus teach His disciples?,The Prayer of Jabez,The Lord's Prayer,Hannah's prayer,The Shema,B,30,25,Matthew 6:9
+emek_q178,the-gospels,medium,5,What is the Golden Rule?,Love your enemies only,An eye for an eye,Judge not lest you be judged,Do to others as you would have them do to you,D,30,25,Matthew 7:12
+emek_q179,the-gospels,medium,5,What did Jesus calm on the sea?,A great fish,A storm,A flood,A fire,B,30,25,Matthew 8:26
+emek_q180,the-gospels,medium,5,What did Jesus first say to the paralytic?,Rise and walk,Be healed,Your faith has saved you,Your sins are forgiven,D,30,25,Matthew 9:2
+emek_q181,acts-and-epistles,medium,5,What was the first Christian martyr named in Acts?,Stephen,James,Philip,Barnabas,A,30,25,Acts 7:59-60
+emek_q182,acts-and-epistles,medium,5,Who witnessed Stephen's execution and later became a major apostle?,Saul,Cornelius,Apollos,Silas,A,30,25,Acts 7:58
+emek_q183,acts-and-epistles,medium,5,What was Saul doing when Jesus appeared to him on the road to Damascus?,Traveling to persecute believers,Going to Jerusalem to worship,Fishing,Escaping prison,A,30,25,Acts 9:1-6
+emek_q184,acts-and-epistles,medium,5,Who prayed for Saul after his Damascus encounter?,Ananias,Barnabas,Peter,Philip,A,30,25,Acts 9:10-18
+emek_q185,acts-and-epistles,medium,5,What happened to Saul's sight after the encounter with Jesus?,It improved immediately,He became blind,He saw visions for seven days,Nothing happened,B,30,25,Acts 9:8-9
+emek_q186,acts-and-epistles,medium,5,Who was Paul's missionary companion from Cyprus?,Barnabas,Timothy,Titus,Luke,A,30,25,Acts 13:2
+emek_q187,acts-and-epistles,medium,5,Who joined Paul as a younger coworker and received two New Testament letters?,Timothy,Mark,Silas,Titus,A,30,25,1 Timothy 1:2
+emek_q188,acts-and-epistles,medium,5,Which coworker did Paul leave sick at Miletus?,Trophimus,Luke,Timothy,Titus,A,30,25,2 Timothy 4:20
+emek_q189,acts-and-epistles,medium,5,Which woman is described as a seller of purple goods and a believer in Philippi?,Lydia,Priscilla,Phoebe,Dorcas,A,30,25,Acts 16:14-15
+emek_q190,acts-and-epistles,medium,5,What did the Philippian jailer do after the earthquake opened the prison doors?,He fled,He asked how to be saved,He arrested Paul again,He slept,B,30,25,Acts 16:29-30
+emek_q191,acts-and-epistles,medium,5,What did Paul and Silas do at midnight in prison?,Sang hymns and prayed,Slept,Escaped,Preached to soldiers,A,30,25,Acts 16:25
+emek_q192,acts-and-epistles,medium,5,Who was Paul's teacher before he became a Christian missionary?,Gamaliel,Nicodemus,Caiaphas,Annas,A,30,25,Acts 22:3
+emek_q193,acts-and-epistles,medium,5,Where were believers first called Christians?,Jerusalem,Antioch,Rome,Corinth,B,30,25,Acts 11:26
+emek_q194,acts-and-epistles,medium,5,What did the Bereans do when Paul preached?,They searched the Scriptures daily,They rejected all teaching,They arrested Paul,They left the city,A,30,25,Acts 17:11
+emek_q195,acts-and-epistles,medium,5,Which church had divisions that Paul strongly addressed in 1 Corinthians?,Corinth,Ephesus,Rome,Philippi,A,30,25,1 Corinthians 1:10-13
+emek_q196,acts-and-epistles,medium,5,What metaphor does Paul use for the church in relation to Christ?,A kingdom of stones,The body of Christ,A Roman army,A school,B,30,25,1 Corinthians 12:27
+emek_q197,acts-and-epistles,medium,5,Which chapter is famous for describing the 'love' that is patient and kind?,1 Corinthians 8,1 Corinthians 10,1 Corinthians 13,1 Corinthians 15,C,30,25,1 Corinthians 13:4
+emek_q198,acts-and-epistles,medium,5,What does Paul call the resurrection body in 1 Corinthians 15?,A spiritual body,A political body,A temporary body,A wooden body,A,30,25,1 Corinthians 15:44
+emek_q199,acts-and-epistles,medium,5,Which letter contains the 'armor of God' passage?,Ephesians,Romans,Galatians,Colossians,A,30,25,Ephesians 6:11-17
+emek_q200,acts-and-epistles,medium,5,What is called the 'sword of the Spirit' in Ephesians 6?,Prayer,The word of God,Faith,Truth,B,30,25,Ephesians 6:17
+emek_q201,the-gospels,medium,6,What food did Jesus multiply?,Bread and wine,Five loaves and two fish,Manna and quail,Grapes and olives,B,35,25,Matthew 14:19
+emek_q202,the-gospels,medium,6,Who did Peter confess Jesus to be?,A great prophet,John the Baptist returned,Elijah returned,"The Christ, the Son of the living God",D,35,25,Matthew 16:16
+emek_q203,the-gospels,medium,6,What did the heavenly voice say about Jesus?,"This is the Messiah, come at last",This is my beloved Son; listen to him,Behold the Lamb of God,Worship him forever,B,35,25,Matthew 17:5
+emek_q204,the-gospels,medium,6,How many times did Peter suggest forgiving?,Three times,Seventy times,Ten times,Seven times,D,35,25,Matthew 18:21
+emek_q205,the-gospels,medium,6,What did the crowd shout?,"Crucify him, crucify him",Hosanna to the Son of David,Give us Barabbas,Away with this man,B,35,25,Matthew 21:9
+emek_q206,the-gospels,medium,6,What did Jesus identify with His body?,Wine,The temple,A lamb,Bread,D,35,25,Matthew 26:26
+emek_q207,the-gospels,medium,6,What did Jesus pray in Gethsemane?,"Father, forgive them","Not my will, but yours, be done",It is finished,Why have you forsaken me,B,35,25,Matthew 26:39
+emek_q208,the-gospels,medium,6,What did the centurion confess?,This man was innocent,Truly this was a great prophet,Truly this was the King of the Jews,Truly this was the Son of God,D,35,25,Matthew 27:54
+emek_q209,the-gospels,medium,6,What did Jesus command regarding all nations?,Conquer them,Make disciples,Judge them,Tax them,B,35,25,Matthew 28:19
+emek_q210,the-gospels,medium,6,What did Jesus promise His disciples?,You will never suffer,You will rule the earth,You will never be tempted,I am with you always,D,35,25,Matthew 28:20
+emek_q211,the-gospels,medium,6,What did Jesus say had come near?,The day of judgment,The kingdom of God,The end of the age,The new temple,B,35,25,Mark 1:15
+emek_q212,the-gospels,medium,6,Who did Jesus say needs a physician?,The righteous,The wealthy,The religious leaders,Those who are sick,D,35,25,Mark 2:17
+emek_q213,the-gospels,medium,6,What did Jesus say to the wind and sea?,Depart from me,Peace! Be still!,Be healed,Rise and shine,B,35,25,Mark 4:39
+emek_q214,the-gospels,medium,6,What words did Jesus speak when raising the girl?,"Lazarus, come forth",Rise and walk,Peace be with you,Talitha cumi,D,35,25,Mark 5:41
+emek_q215,the-gospels,medium,6,What must a disciple take up?,His sword,His cross,His inheritance,His staff,B,35,25,Mark 8:34
+emek_q216,the-gospels,medium,6,Why did the Son of Man come?,To rule as an earthly king,To judge the nations immediately,To rebuild the temple,To serve and give His life as a ransom,D,35,25,Mark 10:45
+emek_q217,the-gospels,medium,6,How should we love God?,Through sacrifices alone,"With all our heart, soul, mind, and strength",By keeping festivals,Through wealth given to the poor,B,35,25,Mark 12:30
+emek_q218,the-gospels,medium,6,What did the angel say about Jesus?,He has ascended,He will return soon,He is sleeping,He has risen,D,35,25,Mark 16:6
+emek_q219,the-gospels,medium,6,What name was Mary told to give her son?,Immanuel,Jesus,John,Emmanuel,B,35,25,Luke 1:31
+emek_q220,the-gospels,medium,6,How did Mary respond to God's message?,How can this be,I am not worthy,I am afraid,Let it be to me according to your word,D,35,25,Luke 1:38
+emek_q221,kings-and-prophets,medium,6,Which Old Testament prophet saw the Lord seated on a throne in the temple?,Isaiah,Jeremiah,Ezekiel,Daniel,A,35,25,Isaiah 6:1
+emek_q222,kings-and-prophets,medium,6,What did Isaiah's seraphim proclaim?,"Holy, holy, holy","Peace, peace, peace",Glory to David,The king is coming,A,35,25,Isaiah 6:3
+emek_q223,kings-and-prophets,medium,6,Which prophet married Gomer as a sign of God's relationship with Israel?,Hosea,Amos,Joel,Micah,A,35,25,Hosea 1:2-3
+emek_q224,kings-and-prophets,medium,6,Which prophet was told to lie on his side as a prophetic sign?,Ezekiel,Isaiah,Jeremiah,Daniel,A,35,25,Ezekiel 4:4-6
+emek_q225,kings-and-prophets,medium,6,Which prophet interpreted Nebuchadnezzar's dream of a great statue?,Daniel,Ezekiel,Jeremiah,Isaiah,A,35,25,Daniel 2:31-45
+emek_q226,kings-and-prophets,medium,6,What did Daniel refuse to eat from the king's provision?,The king's food and wine,Bread and water,Fruit,Fish,A,35,25,Daniel 1:8
+emek_q227,kings-and-prophets,medium,6,How many men were thrown into the fiery furnace?,2,3,4,7,B,35,25,Daniel 3:23
+emek_q228,kings-and-prophets,medium,6,Who was thrown into the lions' den?,Daniel,Jeremiah,Ezra,Nehemiah,A,35,25,Daniel 6:16
+emek_q229,kings-and-prophets,medium,6,What was Nehemiah's role before rebuilding Jerusalem's wall?,Cupbearer to the king,Soldier,Priest,Tax collector,A,35,25,Nehemiah 1:11
+emek_q230,kings-and-prophets,medium,6,Who led the rebuilding of Jerusalem's temple after the exile with Zerubbabel?,Joshua the high priest,David,Samuel,Elijah,A,35,25,Zechariah 3:1
+emek_q231,kings-and-prophets,medium,6,Which priest and scribe led a return to Jerusalem and taught the Law?,Ezra,Aaron,Eli,Zadok,A,35,25,Ezra 7:10
+emek_q232,kings-and-prophets,medium,6,Which book records the rebuilding of Jerusalem's wall?,Nehemiah,Ezra,Esther,Haggai,A,35,25,Nehemiah 6:15
+emek_q233,kings-and-prophets,medium,6,Who became queen and helped save the Jewish people from Haman's plot?,Esther,Ruth,Deborah,Vashti,A,35,25,Esther 4:14-16
+emek_q234,kings-and-prophets,medium,6,Who was Esther's cousin and guardian?,Mordecai,Haman,Ahasuerus,Ezra,A,35,25,Esther 2:7
+emek_q235,kings-and-prophets,medium,6,Who plotted to destroy the Jews in the book of Esther?,Haman,Mordecai,Nehemiah,Sanballat,A,35,25,Esther 3:5-6
+emek_q236,kings-and-prophets,medium,6,Which book contains the phrase 'The fear of the LORD is the beginning of knowledge'?,Proverbs,Psalms,Job,Ecclesiastes,A,35,25,Proverbs 1:7
+emek_q237,kings-and-prophets,medium,6,Which book repeatedly reflects on the phrase 'vanity of vanities'?,Ecclesiastes,Proverbs,Song of Songs,Lamentations,A,35,25,Ecclesiastes 1:2
+emek_q238,kings-and-prophets,medium,6,Who is identified as the author of many wisdom sayings in Proverbs?,Solomon,David,Asaph,Ezra,A,35,25,Proverbs 1:1
+emek_q239,kings-and-prophets,medium,6,Which book is a poetic celebration of marital love?,Song of Songs,Ruth,Esther,Lamentations,A,35,25,Song of Songs 1:1
+emek_q240,kings-and-prophets,medium,6,Which psalm begins 'The LORD is my shepherd'?,Psalm 1,Psalm 23,Psalm 51,Psalm 119,B,35,25,Psalm 23:1
+emek_q241,the-gospels,hard,7,What did the angel announce?,A warning of judgment,Good news of great joy,A call to repentance,A new law,B,40,30,Luke 2:10
+emek_q242,the-gospels,hard,7,In what did Jesus increase?,Wealth and power,Fame and honor,Followers and disciples,"Wisdom, stature, and favor",D,40,30,Luke 2:52
+emek_q243,the-gospels,hard,7,How long was Jesus in the wilderness?,Seven days,Forty days,Three days,A full year,B,40,30,Luke 4:2
+emek_q244,the-gospels,hard,7,What did Jesus marvel at in the centurion?,His wealth,His authority,His kindness,His faith,D,40,30,Luke 7:9
+emek_q245,the-gospels,hard,7,How should we love our neighbor?,More than ourselves,As ourselves,Only if they are kind,As strangers,B,40,30,Luke 10:27
+emek_q246,the-gospels,hard,7,Who was attacked on the road to Jericho?,A priest,A Samaritan,A Roman soldier,A man traveling from Jerusalem,D,40,30,Luke 10:30
+emek_q247,the-gospels,hard,7,What did the father say about the prodigal son?,He must earn his place back,He was lost and is found,He should leave again,He was never truly gone,B,40,30,Luke 15:24
+emek_q248,the-gospels,hard,7,What did the tax collector pray?,I thank you that I am not like others,"Lord, I have kept the Law",Bless my offerings,"God, be merciful to me, a sinner",D,40,30,Luke 18:13
+emek_q249,the-gospels,hard,7,What tree did Zacchaeus climb?,An olive tree,A sycamore tree,A fig tree,A palm tree,B,40,30,Luke 19:4
+emek_q250,the-gospels,hard,7,What did Jesus pray about the cup?,"Father, forgive them",It is finished,Why have you forsaken me,"Not my will, but yours, be done",D,40,30,Luke 22:42
+emek_q251,the-gospels,hard,7,What did Jesus promise the repentant criminal?,Your sins are forgiven,Today you will be with me in paradise,You will see the kingdom come,Wait for the resurrection,B,40,30,Luke 23:43
+emek_q252,the-gospels,hard,7,What did the angels say about Jesus?,He has ascended to heaven,He will return in glory,Do not be afraid,He has risen,D,40,30,Luke 24:6
+emek_q253,the-gospels,hard,7,How does John's Gospel begin?,In the beginning God created,In the beginning was the Word,There was a man sent from God,The kingdom of heaven is at hand,B,40,30,John 1:1
+emek_q254,the-gospels,hard,7,What title does John use for the Word in John 1:1?,God,A prophet,An angel,A priest,A,40,30,John 1:1
+emek_q255,the-gospels,hard,7,What did Jesus turn water into?,Oil,Wine,Milk,Blood,B,40,30,John 2:9
+emek_q256,the-gospels,hard,7,What did God give because He loved the world?,The Law,The prophets,Eternal blessings,His only Son,D,40,30,John 3:16
+emek_q257,the-gospels,hard,7,How must God be worshiped?,With sacrifices and offerings,In spirit and truth,At the temple only,Through fasting alone,B,40,30,John 4:24
+emek_q258,the-gospels,hard,7,What did Jesus call Himself?,The light of the world,The good shepherd,The true vine,The bread of life,D,40,30,John 6:35
+emek_q259,the-gospels,hard,7,What kind of shepherd is Jesus?,A hired hand,A watchful shepherd,A silent shepherd,The good shepherd,D,40,30,John 10:11
+emek_q260,the-gospels,hard,7,What is famously the shortest verse in many English Bibles?,Pray without ceasing,Jesus wept,Rejoice always,God is love,B,40,30,John 11:35
+emek_q261,kings-and-prophets,hard,7,Which judge defeated Midian with only 300 men?,Gideon,Samson,Jephthah,Othniel,A,40,30,Judges 7:7
+emek_q262,kings-and-prophets,hard,7,What did Gideon's soldiers carry when they surrounded the Midianites?,"Trumpets, jars, and torches",Swords and shields,Bows and arrows,Spears and chariots,A,40,30,Judges 7:16
+emek_q263,kings-and-prophets,hard,7,Which woman judged Israel and accompanied Barak?,Deborah,Jael,Hannah,Abigail,A,40,30,Judges 4:4-6
+emek_q264,kings-and-prophets,hard,7,Who killed Sisera?,Jael,Deborah,Rahab,Delilah,A,40,30,Judges 4:21
+emek_q265,kings-and-prophets,hard,7,Which judge made a rash vow involving his daughter?,Jephthah,Gideon,Samson,Ehud,A,40,30,Judges 11:30-39
+emek_q266,kings-and-prophets,hard,7,Which judge was left-handed and assassinated King Eglon?,Ehud,Othniel,Samgar,Gideon,A,40,30,Judges 3:15-21
+emek_q267,kings-and-prophets,hard,7,Which woman hid Israelite spies under stalks of flax?,Rahab,Ruth,Deborah,Miriam,A,40,30,Joshua 2:6
+emek_q268,kings-and-prophets,hard,7,What occupation did Rahab have in Jericho?,Innkeeper/prostitute,Queen,Prophet,Farmer,A,40,30,Joshua 2:1
+emek_q269,kings-and-prophets,hard,7,Which tribe received the city of Jerusalem as part of its inheritance?,Judah,Dan,Naphtali,Reuben,A,40,30,Joshua 15:63
+emek_q270,kings-and-prophets,hard,7,Who was the first king of the united monarchy after the judges?,Saul,David,Solomon,Rehoboam,A,40,30,1 Samuel 10:24
+emek_q271,kings-and-prophets,hard,7,Which king built the first temple in Jerusalem?,Solomon,David,Hezekiah,Josiah,A,40,30,1 Kings 6:1
+emek_q272,kings-and-prophets,hard,7,Which king famously showed unusual wisdom when two women claimed the same baby?,Solomon,David,Saul,Hezekiah,A,40,30,1 Kings 3:16-28
+emek_q273,kings-and-prophets,hard,7,Which king was healed after praying when Isaiah told him he would die?,Hezekiah,Josiah,Manasseh,Ahab,A,40,30,2 Kings 20:1-6
+emek_q274,kings-and-prophets,hard,7,Which king found the Book of the Law during temple repairs and led reforms?,Josiah,Ahab,Rehoboam,Jeroboam,A,40,30,2 Kings 22:8-13
+emek_q275,kings-and-prophets,hard,7,Which king of Israel married Jezebel?,Ahab,Saul,Omri,Jehu,A,40,30,1 Kings 16:31
+emek_q276,kings-and-prophets,hard,7,Which king of Israel was killed by Jehu after a short reign?,Jehoram,Ahab,Jeroboam II,Omri,A,40,30,2 Kings 9:24
+emek_q277,kings-and-prophets,hard,7,Which prophet confronted King Ahab over Naboth's vineyard?,Elijah,Elisha,Nathan,Samuel,A,40,30,1 Kings 21:17-19
+emek_q278,kings-and-prophets,hard,7,Which Syrian commander was healed of leprosy after washing in the Jordan?,Naaman,Ben-hadad,Hazael,Neco,A,40,30,2 Kings 5:14
+emek_q279,kings-and-prophets,hard,7,How many times did Naaman wash in the Jordan?,3,5,7,10,C,40,30,2 Kings 5:10-14
+emek_q280,kings-and-prophets,hard,7,Which prophet made an iron axe head float?,Elisha,Elijah,Isaiah,Jeremiah,A,40,30,2 Kings 6:6
+emek_q281,the-gospels,hard,8,Whom did Jesus call out of the tomb?,Jairus' daughter,The widow's son,A centurion's servant,Lazarus,D,45,30,John 11:43
+emek_q282,the-gospels,hard,8,What did Jesus wash for His disciples?,Their hands,Their feet,Their robes,Their heads,B,45,30,John 13:14
+emek_q283,the-gospels,hard,8,What did Jesus say He is?,The bread of life,The good shepherd,The true vine,"The way, the truth, and the life",D,45,30,John 14:6
+emek_q284,the-gospels,hard,8,What did Jesus compare His followers to?,Sheep,Branches,Salt,Lamps,B,45,30,John 15:5
+emek_q285,the-gospels,hard,8,What will the Spirit of truth do?,Judge the world,Reveal the future only,Replace the Scriptures,Guide into all truth,D,45,30,John 16:13
+emek_q286,the-gospels,hard,8,What did Jesus say before He died?,Into your hands I commit my spirit,It is finished,"Father, forgive them",Why have you forsaken me,B,45,30,John 19:30
+emek_q287,the-gospels,hard,8,What did Jesus invite Thomas to examine?,The empty tomb,The folded grave clothes,A written scroll,His wounds,D,45,30,John 20:27
+emek_q288,the-gospels,hard,8,What did Jesus ask Peter three times?,Will you follow me,Do you love me?,Do you believe,Are you faithful,B,45,30,John 21:15
+emek_q289,acts-and-epistles,hard,8,What would the disciples receive when the Spirit came?,Wisdom,Riches,Authority over nations,Power,D,45,30,Acts 1:8
+emek_q290,acts-and-epistles,hard,8,What happened when the Holy Spirit came at Pentecost?,They fell asleep,They spoke in other tongues,They saw a vision of angels,They fasted for forty days,B,45,30,Acts 2:4
+emek_q291,acts-and-epistles,hard,8,What did Peter tell the crowd to do?,Sell their possessions,Return to the temple,Fast and pray,Repent and be baptized,D,45,30,Acts 2:38
+emek_q292,acts-and-epistles,hard,8,In whose name is salvation found?,Moses,Jesus,The prophets,The Law,B,45,30,Acts 4:12
+emek_q293,acts-and-epistles,hard,8,Who was chosen among the seven?,Barnabas,Timothy,Silas,Stephen,D,45,30,Acts 6:5
+emek_q294,acts-and-epistles,hard,8,What did Jesus ask Saul on the Damascus road?,Why do you not believe,Why are you persecuting me?,Who are you,Where are you going,B,45,30,Acts 9:4
+emek_q295,acts-and-epistles,hard,8,Who was called 'Son of Encouragement' by the apostles?,Barnabas,Silas,Titus,Stephen,A,45,30,Acts 4:36
+emek_q296,acts-and-epistles,hard,8,What other name is Saul called?,Silas,Paul,Barnabas,Stephen,B,45,30,Acts 13:9
+emek_q297,acts-and-epistles,hard,8,What did the Philippian jailer ask?,Who are you,Why do you sing,Where is my sword,What must I do to be saved?,D,45,30,Acts 16:30
+emek_q298,acts-and-epistles,hard,8,Why were the Bereans commended?,They gave generously,They examined the Scriptures daily,They built a synagogue,They welcomed Paul with gifts,B,45,30,Acts 17:11
+emek_q299,acts-and-epistles,hard,8,What saying about giving did Paul quote?,God loves a cheerful giver,Give and it will be given to you,"Freely you received, freely give",It is more blessed to give than to receive,D,45,30,Acts 20:35
+emek_q300,acts-and-epistles,hard,8,Who has sinned?,Only the wicked,All have sinned,Only the Gentiles,Only Adam and Eve,B,45,30,Romans 3:23
+emek_q301,the-gospels,hard,8,Which Gospel contains the Sermon on the Mount?,Matthew,Mark,Luke,John,A,45,30,Matthew 5:1-2
+emek_q302,the-gospels,hard,8,Which Gospel contains the Sermon on the Plain?,Luke,Matthew,Mark,John,A,45,30,Luke 6:17-20
+emek_q303,the-gospels,hard,8,What prayer did Jesus teach His disciples as a model prayer?,The Lord's Prayer,The Prayer of Jabez,Hannah's Prayer,Solomon's Prayer,A,45,30,Matthew 6:9-13
+emek_q304,the-gospels,hard,8,"According to Jesus, what are the two greatest commandments?",Love God and love your neighbor,Fast and give money,Pray and sing,Keep festivals and sacrifices,A,45,30,Matthew 22:37-39
+emek_q305,the-gospels,hard,8,"In the parable of the Good Samaritan, who helped the wounded man?",A Samaritan,A priest,A Levite,A Roman soldier,A,45,30,Luke 10:33-37
+emek_q306,the-gospels,hard,8,"In the parable of the Prodigal Son, what did the father do when the son returned?",Welcomed him with compassion,Sent him away,Made him a servant,Refused to speak to him,A,45,30,Luke 15:20-24
+emek_q307,the-gospels,hard,8,"In the parable of the Sower, what does the seed represent?",The word of God,Money,Israel,The angels,A,45,30,Luke 8:11
+emek_q308,the-gospels,hard,8,What did the wise men follow to find Jesus?,A star,A rainbow,A pillar of fire,A comet mentioned by Isaiah,A,45,30,Matthew 2:2
+emek_q309,the-gospels,hard,8,Which disciple asked Jesus to show them the Father?,Philip,Thomas,Andrew,James,A,45,30,John 14:8
+emek_q310,the-gospels,hard,8,Which disciple wanted to put his finger in Jesus' wounds?,Thomas,Peter,John,Judas,A,45,30,John 20:25
+emek_q311,the-gospels,hard,8,Who was the first person to see the risen Jesus according to John's Gospel?,Mary Magdalene,Peter,John,Thomas,A,45,30,John 20:14-18
+emek_q312,the-gospels,hard,8,What did Jesus say on the cross in Aramaic that Mark records?,"My God, my God, why have you forsaken me?","Father, forgive them",It is finished,Into your hands I commit my spirit,A,45,30,Mark 15:34
+emek_q313,the-gospels,hard,8,What was the name of the garden where Jesus prayed before His arrest?,Gethsemane,Eden,Cana,Bethany,A,45,30,Matthew 26:36
+emek_q314,the-gospels,hard,8,Who cut off the ear of the high priest's servant?,Peter,John,James,Andrew,A,45,30,John 18:10
+emek_q315,the-gospels,hard,8,What was the servant's name whose ear was cut off?,Malchus,Barabbas,Bartimaeus,Lazarus,A,45,30,John 18:10
+emek_q316,the-gospels,hard,8,Who carried Jesus' cross according to the Synoptic Gospels?,Simon of Cyrene,Joseph of Arimathea,Nicodemus,Barabbas,A,45,30,Mark 15:21
+emek_q317,the-gospels,hard,8,Who provided the tomb in which Jesus was buried?,Joseph of Arimathea,Nicodemus,Peter,John,A,45,30,Matthew 27:57-60
+emek_q318,the-gospels,hard,8,Who helped Joseph of Arimathea with Jesus' burial according to John?,Nicodemus,Thomas,Matthew,Caiaphas,A,45,30,John 19:39-40
+emek_q319,the-gospels,hard,8,What did the women find rolled away from Jesus' tomb?,The stone,The curtain,The cross,The gate,A,45,30,Luke 24:2
+emek_q320,acts-and-epistles,hard,8,How many days did Jesus appear on earth between His resurrection and ascension according to Acts?,7,20,40,50,C,45,30,Acts 1:3
+emek_q321,acts-and-epistles,hard,9,How did God demonstrate His love?,He sent the Law,He gave the prophets,He blessed the righteous,Christ died for us while we were sinners,D,50,30,Romans 5:8
+emek_q322,acts-and-epistles,hard,9,What are the wages of sin?,Suffering,Death,Poverty,Shame,B,50,30,Romans 6:23
+emek_q323,acts-and-epistles,hard,9,What is there for those in Christ Jesus?,No suffering,No temptation,No trials,No condemnation,D,50,30,Romans 8:1
+emek_q324,acts-and-epistles,hard,9,What works together for good for those who love God?,Only blessings,All things,Only trials,Only prayers,B,50,30,Romans 8:28
+emek_q325,acts-and-epistles,hard,9,What confession is linked with salvation?,I am a sinner,God is one,Christ will return,Jesus is Lord,D,50,30,Romans 10:9
+emek_q326,acts-and-epistles,hard,9,What should believers not be conformed to?,The Law,This world,Other believers,Their past,B,50,30,Romans 12:2
+emek_q327,acts-and-epistles,hard,9,What is a believer's body called?,A vessel of clay,A living sacrifice,A house of prayer,A temple of the Holy Spirit,D,50,30,1 Corinthians 6:19
+emek_q328,acts-and-epistles,hard,9,What does God provide with temptation?,Forgiveness only,A way of escape,A warning,Strength to endure alone,B,50,30,1 Corinthians 10:13
+emek_q329,acts-and-epistles,hard,9,What is love described as?,Bold and fearless,Wise and just,Strong and enduring,Patient and kind,D,50,30,1 Corinthians 13:4
+emek_q330,acts-and-epistles,hard,9,For what did Christ die?,The Law,Our sins,The temple,Our weaknesses,B,50,30,1 Corinthians 15:3
+emek_q331,acts-and-epistles,hard,9,What is someone in Christ?,A forgiven servant,An adopted child only,A holy priest,A new creation,D,50,30,2 Corinthians 5:17
+emek_q332,acts-and-epistles,hard,9,What did Paul say about Christ and his life?,Christ is my teacher,Christ lives in me,Christ is my king,Christ is my judge,B,50,30,Galatians 2:20
+emek_q333,acts-and-epistles,hard,9,What begins the fruit of the Spirit list?,Joy,Peace,Faith,Love,D,50,30,Galatians 5:22
+emek_q334,acts-and-epistles,hard,9,What should believers do with one another's burdens?,Ignore them,Bear them,Judge them,Report them,B,50,30,Galatians 6:2
+emek_q335,acts-and-epistles,hard,9,How are believers saved?,By keeping the Law,By good works alone,By baptism alone,By grace through faith,D,50,30,Ephesians 2:8
+emek_q336,acts-and-epistles,hard,9,What should believers put on?,A robe of righteousness,The whole armor of God,A crown of glory,A garment of praise,B,50,30,Ephesians 6:11
+emek_q337,acts-and-epistles,hard,9,What did Paul say living is?,Service,Suffering,Joy,Christ,D,50,30,Philippians 1:21
+emek_q338,acts-and-epistles,hard,9,What does Paul command believers to do?,Fast continually,Rejoice in the Lord,Judge the world,Seek riches,B,50,30,Philippians 4:4
+emek_q339,acts-and-epistles,hard,9,What can Paul do through Christ?,Only great things,Only spiritual things,Only what he asks for,All things,D,50,30,Philippians 4:13
+emek_q340,acts-and-epistles,hard,9,What should believers set their minds on?,Earthly riches,Things above,The Law,Their own strength,B,50,30,Colossians 3:2
+emek_q341,acts-and-epistles,hard,9,What visible sign appeared over the disciples at Pentecost?,Tongues as of fire,A rainbow,A star,A cloud,A,50,30,Acts 2:3
+emek_q342,acts-and-epistles,hard,9,Who preached the major sermon at Pentecost in Acts 2?,Peter,Paul,Stephen,James,A,50,30,Acts 2:14-41
+emek_q343,acts-and-epistles,hard,9,About how many people were added to the believers after Peter's Pentecost sermon?,300,"1,000","3,000","5,000",C,50,30,Acts 2:41
+emek_q344,acts-and-epistles,hard,9,What did the early believers devote themselves to according to Acts 2?,"Teaching, fellowship, breaking bread, and prayers",Military training,Political meetings,Temple commerce,A,50,30,Acts 2:42
+emek_q345,acts-and-epistles,hard,9,Who was the first Gentile convert prominently described in Acts?,Cornelius,Felix,Festus,Sergius Paulus,A,50,30,Acts 10:1-2
+emek_q346,acts-and-epistles,hard,9,What was Cornelius's occupation?,Roman centurion,Jewish priest,Governor,Merchant,A,50,30,Acts 10:1
+emek_q347,acts-and-epistles,hard,9,What vision did Peter receive before meeting Cornelius?,A sheet filled with animals,A burning bush,A ladder to heaven,A scroll of the Law,A,50,30,Acts 10:11-16
+emek_q348,acts-and-epistles,hard,9,What did Peter learn from his vision in Acts 10?,God shows no partiality,Only Jews can be saved,Animals are never to be eaten,Rome should be conquered,A,50,30,Acts 10:34-35
+emek_q349,acts-and-epistles,hard,9,Which church sent Paul and Barnabas out for missionary work?,Antioch,Jerusalem,Rome,Corinth,A,50,30,Acts 13:1-3
+emek_q350,acts-and-epistles,hard,9,What did Paul and Barnabas do when Gentiles were included in the church?,Defended their inclusion through the Jerusalem council,Rejected them,Moved to Rome,Stopped preaching,A,50,30,Acts 15:1-29
+emek_q351,acts-and-epistles,hard,9,Who presided prominently at the Jerusalem Council and summarized the decision?,James,Peter,Paul,Barnabas,A,50,30,Acts 15:13-19
+emek_q352,acts-and-epistles,hard,9,What did the Jerusalem Council decide about Gentile believers?,They should not be required to become Jews,They must be circumcised,They could not enter churches,They must live in Jerusalem,A,50,30,Acts 15:19-20
+emek_q353,acts-and-epistles,hard,9,Who was Paul's tentmaking coworker in Corinth?,Aquila,Silas,Titus,Epaphroditus,A,50,30,Acts 18:2-3
+emek_q354,acts-and-epistles,hard,9,Who was Aquila's wife?,Priscilla,Phoebe,Lydia,Junia,A,50,30,Acts 18:2
+emek_q355,acts-and-epistles,hard,9,Who was an eloquent Jewish teacher from Alexandria who knew the Scriptures?,Apollos,Crispus,Tychicus,Onesimus,A,50,30,Acts 18:24
+emek_q356,acts-and-epistles,hard,9,Who explained the way of God more accurately to Apollos?,Priscilla and Aquila,Peter and John,Paul and Barnabas,James and Jude,A,50,30,Acts 18:26
+emek_q357,acts-and-epistles,hard,9,Which runaway slave became a Christian and was the subject of Paul's letter to Philemon?,Onesimus,Tychicus,Epaphras,Aristarchus,A,50,30,Philemon 1:10-12
+emek_q358,acts-and-epistles,hard,9,What did Paul call Onesimus in relation to Philemon?,A beloved brother,A Roman official,A high priest,A soldier,A,50,30,Philemon 1:16
+emek_q359,acts-and-epistles,hard,9,Which letter emphasizes justification by faith and Abraham as an example?,Romans,Hebrews,James,Jude,A,50,30,Romans 4:1-5
+emek_q360,acts-and-epistles,hard,9,Which letter warns that faith without works is dead?,James,Romans,Galatians,Ephesians,A,50,30,James 2:17
+emek_q361,acts-and-epistles,hard,10,What should believers do always?,Fast,Mourn,Labor,Rejoice,D,60,30,1 Thessalonians 5:16
+emek_q362,acts-and-epistles,hard,10,What should believers do without ceasing?,Fast,Pray,Give,Sing,B,60,30,1 Thessalonians 5:17
+emek_q363,acts-and-epistles,hard,10,How is Scripture described?,Written by angels,Passed down by tradition,Sealed until the end,Breathed out by God,D,60,30,2 Timothy 3:16
+emek_q364,acts-and-epistles,hard,10,How is God's word described?,Ancient and unchanging,Living and active,Silent and hidden,Written in stone alone,B,60,30,Hebrews 4:12
+emek_q365,acts-and-epistles,hard,10,What is faith?,Certainty based on proof,Belief without any doubt,Confidence in one's own strength,Assurance of things hoped for and conviction of things not seen,D,60,30,Hebrews 11:1
+emek_q366,acts-and-epistles,hard,10,What should someone lacking wisdom ask God for?,Riches,Wisdom,Long life,Victory over enemies,B,60,30,James 1:5
+emek_q367,acts-and-epistles,hard,10,"What should believers be, not hearers only?",Teachers of the word,Judges of others,Keepers of tradition,Doers of the word,D,60,30,James 1:22
+emek_q368,acts-and-epistles,hard,10,What is faith without works?,Incomplete,Dead,Weak,Hidden,B,60,30,James 2:17
+emek_q369,acts-and-epistles,hard,10,What should believers cast on God?,Their sins only,Their possessions,Their plans,Their anxieties,D,60,30,1 Peter 5:7
+emek_q370,acts-and-epistles,hard,10,What does God do when we confess our sins?,Remembers them forever,Forgives and cleanses us,Judges us immediately,Delays forgiveness,B,60,30,1 John 1:9
+emek_q371,acts-and-epistles,hard,10,What is God?,Light alone,Spirit alone,Judge alone,Love,D,60,30,1 John 4:8
+emek_q372,acts-and-epistles,hard,10,Why do we love?,Because it is commanded,Because He first loved us,Because it brings reward,Because others love us,B,60,30,1 John 4:19
+emek_q373,acts-and-epistles,hard,10,What title does God use?,The Ancient of Days,The Most High,The Almighty,Alpha and Omega,D,60,30,Revelation 1:8
+emek_q374,acts-and-epistles,hard,10,What is promised to the faithful unto death?,A place in the temple,The crown of life,Earthly riches,Freedom from suffering,B,60,30,Revelation 2:10
+emek_q375,acts-and-epistles,hard,10,Where does Christ say He stands and knocks?,At the gate,At the altar,At the throne,At the door,D,60,30,Revelation 3:20
+emek_q376,acts-and-epistles,hard,10,What title is given to Christ?,The Lamb of the tribe of Levi,The Lion of the tribe of Judah,The Eagle of the tribe of Dan,The Bear of the tribe of Gad,B,60,30,Revelation 5:5
+emek_q377,acts-and-epistles,hard,10,Who is before the throne?,Only the twelve apostles,Only the tribes of Israel,The angels alone,A great multitude from every nation,D,60,30,Revelation 7:9
+emek_q378,acts-and-epistles,hard,10,What title is written on the rider's robe?,The Word of God alone,King of kings and Lord of lords,The Faithful Witness,The Root of David,B,60,30,Revelation 19:16
+emek_q379,acts-and-epistles,hard,10,What will God wipe away?,Every sin,Every memory,Every nation,Every tear,D,60,30,Revelation 21:4
+emek_q380,acts-and-epistles,hard,10,Which book describes a new heaven and a new earth?,Revelation,Isaiah,Romans,Hebrews,A,60,30,Revelation 21:1
+emek_q381,acts-and-epistles,hard,10,What descends from heaven in Revelation 21?,"The holy city, new Jerusalem",The ark of Noah,Mount Sinai,The temple of Solomon,A,60,30,Revelation 21:2
+emek_q382,acts-and-epistles,hard,10,What is the final enemy to be destroyed according to 1 Corinthians 15?,Death,Rome,Satan's armies,Sinful rulers,A,60,30,1 Corinthians 15:26
+emek_q383,acts-and-epistles,hard,10,What does Revelation say will no longer exist in the new creation?,"Death, mourning, crying, and pain",Music,Work,Rivers,A,60,30,Revelation 21:4
+emek_q384,acts-and-epistles,hard,10,Which church in Revelation was described as lukewarm?,Laodicea,Ephesus,Smyrna,Philadelphia,A,60,30,Revelation 3:14-16
+emek_q385,acts-and-epistles,hard,10,Which church was told it had left its first love?,Ephesus,Pergamum,Thyatira,Sardis,A,60,30,Revelation 2:4
+emek_q386,acts-and-epistles,hard,10,Which church in Revelation was promised an open door that no one could shut?,Philadelphia,Smyrna,Laodicea,Ephesus,A,60,30,Revelation 3:7-8
+emek_q387,acts-and-epistles,hard,10,Which church was warned that it had a reputation for being alive but was dead?,Sardis,Pergamum,Thyatira,Smyrna,A,60,30,Revelation 3:1
+emek_q388,acts-and-epistles,hard,10,What was the name of the river flowing from the throne of God and the Lamb?,River of the water of life,Jordan,Euphrates,Nile,A,60,30,Revelation 22:1
+emek_q389,acts-and-epistles,hard,10,What grows on either side of the river in Revelation 22?,The tree of life,Olive trees,Cedars,Vines,A,60,30,Revelation 22:2
+emek_q390,acts-and-epistles,hard,10,What did John see seated on the throne in Revelation 4?,One like jasper and carnelian,A bronze statue,A golden calf,A Roman emperor,A,60,30,Revelation 4:2-3
+emek_q391,the-gospels,hard,10,Who is called 'the Word' in the opening of John's Gospel?,Jesus,John the Baptist,Moses,The Father,A,60,30,"John 1:1,14"
+emek_q392,the-gospels,hard,10,What did the Word become according to John 1:14?,Flesh,An angel,A prophet,A king only,A,60,30,John 1:14
+emek_q393,the-gospels,hard,10,What does John the Baptist call Jesus in John 1?,The Lamb of God,The Lion of Judah,The Good Shepherd,The Bread of Life,A,60,30,John 1:29
+emek_q394,the-gospels,hard,10,Which 'I am' saying identifies Jesus as the resurrection and the life?,I am the resurrection and the life,I am the good shepherd,I am the true vine,I am the door,A,60,30,John 11:25
+emek_q395,the-gospels,hard,10,Which 'I am' saying identifies Jesus as the good shepherd?,I am the good shepherd,I am the bread of life,I am the light of the world,I am the true vine,A,60,30,John 10:11
+emek_q396,the-gospels,hard,10,Which 'I am' saying identifies Jesus as the bread of life?,I am the bread of life,I am the door,I am the resurrection and the life,I am the way,A,60,30,John 6:35
+emek_q397,the-gospels,hard,10,Which 'I am' saying identifies Jesus as the true vine?,I am the true vine,I am the light of the world,I am the good shepherd,I am the way,A,60,30,John 15:1
+emek_q398,the-gospels,hard,10,What did Jesus say His followers should do to their enemies?,Love them and pray for those who persecute them,Ignore them,Curse them,Defeat them by force,A,60,30,Matthew 5:44
+emek_q399,the-gospels,hard,10,Which disciple was called 'the Zealot'?,Simon the Zealot,Matthew,Bartholomew,Philip,A,60,30,Luke 6:15
+emek_q400,the-gospels,hard,10,Which disciple was one of the two sons of Zebedee?,John,Thomas,Matthew,Judas Iscariot,A,60,30,Mark 1:19-20
